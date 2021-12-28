@@ -5,7 +5,7 @@
 [2. Какой кейс решаем?](README.md#Какой-кейс-решаем)  
 [3. Краткая информация о данных](README.md#Краткая-информация-о-данных)  
 [4. Этапы работы над проектом](README.md#Этапы-работы-над-проектом)  
-[5. Решение](https://github.com/sopcor/sf/blob/main/GameM/game.ipynb)
+[5. Решение](https://github.com/sopcor/sf/blob/main/GameM/game.ipynb)  
 [6. Результаты](README.md#Результаты)    
 [7. Выводы](README.md#Выводы) 
 
