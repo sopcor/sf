@@ -34,8 +34,7 @@
 
 ### Краткая информация о данных
 
-Файл с исходными данными находится [здесь](http://sop-cor.ru/temp/filestorage/dst-3.0_16_1_hh_database.csv") 
-Файл с данными по курсам валют доступен [тут](http://sop-cor.ru/temp/filestorage/ExchangeRates.csv")
+Файл с исходными данными находится [здесь](http://sop-cor.ru/temp/filestorage/dst-3.0_16_1_hh_database.csv"), файл с данными по курсам валют доступен [тут.](http://sop-cor.ru/temp/filestorage/ExchangeRates.csv")
 
 Для просмотра ноутбука в GitHub некоторые графики продублированы изображениями.
 
