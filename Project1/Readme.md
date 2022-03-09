@@ -58,7 +58,7 @@
 
 ### Результаты:  
 
-Результат работы можно увидеть своими глазами на Jupyter-ноутбуке по [этой ссылке](https://github.com/sopcor/sf/blob/63878b1/PROJECT-1/Project_1.ipynb)
+Результат работы можно увидеть своими глазами на Jupyter-ноутбуке по [этой ссылке](https://github.com/sopcor/sf/blob/main/Project1/Project_1.ipynb)
 
 :arrow_up:[к оглавлению](Readme.md#оглавление)
 
